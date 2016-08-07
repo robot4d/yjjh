@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<playlist>
+		<music name="we are one" nameWithScene="we are one" sceneID="-1" length="304"/>
+        <music name="小城心事" nameWithScene="小城心事(江陵)" sceneID="1001" length="95"/>
+		<music name="蝶飞花舞" nameWithScene="蝶飞花舞(蝴蝶谷)" sceneID="1002" length="94"/>
+        <music name="云锁棋局" nameWithScene="云锁棋局(云渡山)" sceneID="1003" length="93"/>
+        <music name="声声慢" nameWithScene="声声慢(西野郡郊)" sceneID="1004" length="88"/>
+        <music name="纵马天涯" nameWithScene="纵马天涯(正气坡)" sceneID="1005" length="91"/>
+        <music name="金缕曲" nameWithScene="金缕曲(开封)" sceneID="1006" length="94"/>
+        <music name="虽万人吾往矣" nameWithScene="虽万人吾往矣(雁门关)" sceneID="1007" length="62"/>
+        <music name="雪藏仙踪" nameWithScene="雪藏仙踪(昆仑山)" sceneID="1008" length="78"/>
+        <music name="梦断残生" nameWithScene="梦断残生(云梦泽)" sceneID="1009" length="75"/>
+        <music name="千秋一卦" nameWithScene="千秋一卦(诸葛八卦村)" sceneID="1010" length="64"/>
+        <music name="望山轻酌" nameWithScene="望山轻酌(幽州)" sceneID="1011" length="66"/>
+        <music name="迷途" nameWithScene="迷途(高昌迷宫)" sceneID="1012" length="63"/>
+        <music name="竹笛悠悠" nameWithScene="竹笛悠悠(大理)" sceneID="1013" length="60"/>
+        <music name="林中少女" nameWithScene="林中少女(苗疆)" sceneID="1014" length="59"/>
+        <music name="幻城诡意" nameWithScene="幻城诡意(楼兰)" sceneID="1015" length="64"/>
+        <music name="勿念轮回" nameWithScene="勿念轮回(忘川荒村)" sceneID="1016" length="63"/>
+        <music name="欢舞吟" nameWithScene="欢舞吟(琼州)" sceneID="1017" length="61"/>
+        <music name="皇威天仪" nameWithScene="皇威天仪(辽上京)" sceneID="1018" length="64"/>
+        <music name="一念三生" nameWithScene="一念三生(南塔)" sceneID="1019" length="64"/>
+        <music name="九天孤鹤" nameWithScene="九天孤鹤(点苍)" sceneID="1020" length="103"/>
+        <music name="大道茫茫" nameWithScene="大道茫茫(全真)" sceneID="1021" length="99"/>
+        <music name="妙手柔情" nameWithScene="妙手柔情(峨眉)" sceneID="1022" length="101"/>
+        <music name="幽谷箜篌" nameWithScene="幽谷箜篌(唐门)" sceneID="1023" length="103"/>
+        <music name="笑浊世" nameWithScene="笑浊世(丐帮)" sceneID="1024" length="106"/>
+        <music name="古刹佛诵" nameWithScene="古刹佛诵(少林)" sceneID="1025" length="91"/>
+        <music name="隔世" nameWithScene="隔世(监狱)" sceneID="1027" length="60"/>
+        <music name="兽欢行" nameWithScene="兽欢行(珍兽岛宠物林)" sceneID="1028,1029,1031,1032,1033" length="65"/>
+        <music name="小城心事" nameWithScene="小城心事(江陵)" sceneID="1040" length="95"/>
+        <music name="金戈烽火" nameWithScene="金戈烽火(讨伐山贼)" sceneID="2001" length="73"/>
+        <music name="信手探龙" nameWithScene="信手探龙(古老皇陵)" sceneID="2002" length="66"/>
+        <music name="飞沙迷情" nameWithScene="飞沙迷情(荒漠宝藏)" sceneID="2007" length="65"/>
+        <music name="急行军" nameWithScene="急行军(皇家狩猎)" sceneID="2008" length="63"/>
+        <music name="乱世无双" nameWithScene="乱世无双(逆天龙脉)" sceneID="2009" length="63"/>
+        <music name="妖雾重重" nameWithScene="妖雾重重(海市密境)" sceneID="2012,2013,2014" length="71"/>
+        <music name="妖影密布" nameWithScene="妖影密布(斩魔塔)" sceneID="3001,3002,3003,3004,3005" length="65"/>
+        <music name="危机四伏" nameWithScene="危机四伏(靖江王陵)" sceneID="3006,3007,3008" length="61"/>
+        <music name="鬼影戚戚" nameWithScene="鬼影戚戚(苗疆异冢)" sceneID="3012,3013,3014,3015,3016,3017,3018" length="62"/>
+        <music name="潜龙在渊" nameWithScene="潜龙在渊(千龙洞)" sceneID="3019,3020,3021" length="60"/>
+        <music name="星罗万象1" nameWithScene="星罗万象(星斗九宫1-2)" sceneID="3022" length="68"/>
+        <music name="星罗万象2" nameWithScene="星罗万象(星斗九宫3-4)" sceneID="3024" length="64"/>
+	<music name="摩崖顶" nameWithScene="摩崖顶" sceneID="1088" length="92"/>
+	<music name="寂陵前殿" nameWithScene="寂陵前殿" sceneID="2027" length="92"/>
+	<music name="寂陵长廊" nameWithScene="寂陵长廊" sceneID="2028" length="92"/>
+	<music name="寂陵密室" nameWithScene="寂陵密室" sceneID="2029" length="92"/>	
+
+</playlist>
